@@ -1,0 +1,29 @@
+{
+  "name": "swiftlook",
+  "version": "1.0.0",
+  "description": "theme switcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjherzalla/swiftlook.git"
+  },
+  "keywords": [
+    "theme",
+    "theme",
+    "switcher",
+    "darktheme"
+  ],
+  "author": " <mjherzalla@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjherzalla/swiftlook/issues"
+  },
+  "homepage": "https://github.com/mjherzalla/swiftlook#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
