@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/mjherzalla/swiftlook#readme",
   "dependencies": {
+    "bootstrap": "^4.0.0",
     "fs": "0.0.1-security",
     "path": "^0.12.7"
   }
